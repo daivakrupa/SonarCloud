@@ -3,7 +3,9 @@
 SonarQube Installation and Integration with Jenkins
 
 SonarQube is an open-source platform used for continuous analysis of source code quality by performing analysis of code to detect duplications, bugs, security vulnerabilities and code smells.
+
 Step1: Install Java
+
 sudo yum install java-1.8*
 
 Java -version
